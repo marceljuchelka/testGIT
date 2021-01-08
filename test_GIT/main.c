@@ -9,7 +9,7 @@
 #include "main.h"
 
 int main(void){
-	uint8_t promenna_a = test_1;
+	uint8_t promenna_a = test_2;
 	while(1){
 		promenna_a = promenna_a + promenna_a;
 		/// test 1
